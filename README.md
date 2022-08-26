@@ -105,7 +105,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jeffery McCain - [@twitter_handle](https://twitter.com/@B0red)
+Jeffery McCain - [@twitter_handle](https://twitter.com/@b0redt0jeff)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
